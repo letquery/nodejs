@@ -1,0 +1,48 @@
+{
+	"name": "let-query",
+	"version": "0.1.1",
+	"description": "letquery() function & letquery class are downloading data or files by http request",
+	"license": "MIT",
+	"repository": "let-query/nodejs",
+	"funding": "https://github.com/let-query/nodejs?sponsor=1",
+	"author": {
+		"name": "Tom Sapletta",
+		"email": "info@softreck.dev",
+		"url": "https://tom.sapletta.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"security": "tidelift init --catalog default let-query"
+	},
+	"files": [
+		"index.js",
+		"let_query.js"
+	],
+	"keywords": [
+		"http",
+		"file",
+		"let",
+		"query"
+	],
+	"devDependencies": {
+		"noop-stream": "^0.1.0"
+	},
+	"dependencies": {
+		"strtok3": "^6.0.3"
+	},
+	"xo": {
+		"envs": [
+			"node",
+			"browser"
+		],
+		"rules": {
+			"no-inner-declarations": "warn",
+			"no-await-in-loop": "warn",
+			"promise/prefer-await-to-then": "warn",
+			"prefer-named-capture-group": "off"
+		}
+	}
+}

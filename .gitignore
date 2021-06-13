@@ -10,7 +10,6 @@ node_modules
 coverage
 reports
 .github.token
-.npmrc
 tmp
 npm
 contributors.json
