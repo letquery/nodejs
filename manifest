@@ -1,0 +1,23 @@
+{
+    "name": "letquery",
+    "title": "letquery",
+    "description": "letquery() function & letquery class are downloading data or files by http request",
+    "version": "{{VER}}",
+    "keywords": [
+        "letquery", "query", "get", "request", "http"
+    ],
+    "author": {
+        "name": "Tom Sapletta",
+        "email": "info@softreck.dev",
+        "url": "http://softreck.dev"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }],
+    "homepage": "https://nodejs.letquery.com/",
+    "bugs": "https://github.com/letquery/nodejs/issues",
+    "demo": "http://demo.letquery.com/",
+    "docs": "http://docs.letquery.com/",
+    "download": "https://github.com/letquery/nodejs/releases",
+}
