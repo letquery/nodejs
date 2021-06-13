@@ -1,5 +1,4 @@
-# nodejs
-nodejs.letquery.com
+# nodejs.letquery.com
 
 
 
